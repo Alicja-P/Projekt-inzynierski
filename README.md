@@ -5,5 +5,5 @@ W repozytorium znajdują się wykresy porównujące dokładność lokalizacji ob
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-|![Linia](https://user-images.githubusercontent.com/56272127/151034671-1532c77c-30bf-47c7-b436-7a4437d68cf5.png)| |
-![Linia2](https://user-images.githubusercontent.com/56272127/151035329-69734132-4834-49ed-b1a9-e3b6bba50b9f.png)
+|![Linia](https://user-images.githubusercontent.com/56272127/151034671-1532c77c-30bf-47c7-b436-7a4437d68cf5.png)| 
+![Linia2](https://user-images.githubusercontent.com/56272127/151035329-69734132-4834-49ed-b1a9-e3b6bba50b9f.png)|
